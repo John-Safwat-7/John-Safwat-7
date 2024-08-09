@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=John-Safwat-7&label=Profile%20views&color=0e75b6&style=flat" alt="John-Safwat-7" /> </p>
 
-- 🔭 I’m currently working on *New Arabic Stemmer Algorithm.*
+- 🔭 I’m currently working on learning.
 
-- 🌱 I’m currently learning *Machine Learning, Backend.*
+- 🌱 I’m currently learning *Machine Learning, .Net Backend.*
 
-- 👯 I’m looking to collaborate on *Machine Learning, AI, Data Analyst Projects*
+- 👯 I’m looking to collaborate on *Machine Learning, .Net Projects*
 
-- 💬 Ask me about *Machine Learning, Arabic NLP.*
+- 💬 Ask me about *Pen Testing*
 
 - 📫 How to reach me *johnsafwat2004@gmail.com*
 
