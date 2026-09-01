@@ -5,17 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=John-Safwat-7&label=Profile%20views&color=0e75b6&style=flat" alt="John-Safwat-7" /> </p>
 
-- 🔭 I’m currently working on learning.
+* 🔭 I’m currently working on *building software projects with .NET, AI, and Cybersecurity.*
 
-- 🌱 I’m currently learning *Machine Learning, .Net Backend.*
+* 🌱 I’m currently learning *Generative AI, Agentic AI, Advanced .NET Backend Development, and Application Security.*
 
-- 👯 I’m looking to collaborate on *Machine Learning, .Net Projects*
+* 👯 I’m looking to collaborate on *.NET, AI, Machine Learning, and Cybersecurity projects.*
 
-- 💬 Ask me about *Pen Testing*
+* 💬 Ask me about *.NET, Backend Development, AI, Cybersecurity, and Penetration Testing.*
 
-- 📫 How to reach me *johnsafwat2004@gmail.com*
+* 🛡️ I’m interested in *Application Security, Penetration Testing, and Secure Software Development.*
 
-- ⚡ Fun fact *I Think I am funny*
+* 📫 How to reach me *[johnsafwat2004@gmail.com](mailto:johnsafwat2004@gmail.com)*
+
+* ⚡ Fun fact *I think I’m funny... at least my code doesn’t complain.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
